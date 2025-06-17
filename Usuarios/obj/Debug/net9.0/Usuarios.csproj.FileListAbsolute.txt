@@ -1,0 +1,15 @@
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\bin\Debug\net9.0\Usuarios.exe
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\bin\Debug\net9.0\Usuarios.deps.json
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\bin\Debug\net9.0\Usuarios.runtimeconfig.json
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\bin\Debug\net9.0\Usuarios.dll
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\bin\Debug\net9.0\Usuarios.pdb
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\obj\Debug\net9.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\obj\Debug\net9.0\Usuarios.AssemblyInfoInputs.cache
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\obj\Debug\net9.0\Usuarios.AssemblyInfo.cs
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\obj\Debug\net9.0\Usuarios.csproj.CoreCompileInputs.cache
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\obj\Debug\net9.0\Usuarios.sourcelink.json
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\obj\Debug\net9.0\Usuarios.dll
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\obj\Debug\net9.0\refint\Usuarios.dll
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\obj\Debug\net9.0\Usuarios.pdb
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\obj\Debug\net9.0\Usuarios.genruntimeconfig.cache
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\Usuarios\obj\Debug\net9.0\ref\Usuarios.dll
