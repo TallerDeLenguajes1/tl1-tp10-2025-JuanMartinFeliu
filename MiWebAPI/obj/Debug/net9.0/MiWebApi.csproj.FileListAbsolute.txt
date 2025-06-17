@@ -1,0 +1,15 @@
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\obj\Debug\net9.0\MiWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\obj\Debug\net9.0\MiWebApi.AssemblyInfoInputs.cache
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\obj\Debug\net9.0\MiWebApi.AssemblyInfo.cs
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\obj\Debug\net9.0\MiWebApi.csproj.CoreCompileInputs.cache
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\obj\Debug\net9.0\MiWebApi.sourcelink.json
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\bin\Debug\net9.0\MiWebApi.exe
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\bin\Debug\net9.0\MiWebApi.deps.json
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\bin\Debug\net9.0\MiWebApi.runtimeconfig.json
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\bin\Debug\net9.0\MiWebApi.dll
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\bin\Debug\net9.0\MiWebApi.pdb
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\obj\Debug\net9.0\MiWebApi.dll
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\obj\Debug\net9.0\refint\MiWebApi.dll
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\obj\Debug\net9.0\MiWebApi.pdb
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\obj\Debug\net9.0\MiWebApi.genruntimeconfig.cache
+D:\Taller de Lenguajes\tl1-tp10-2025-JuanMartinFeliu\MiWebAPI\obj\Debug\net9.0\ref\MiWebApi.dll
